@@ -1,0 +1,11 @@
+# 🌐 Cloud-Based Digital Twin for Embedded Systems  
+
+## 📌 Project Overview  
+This project simulates an **AI-driven embedded system** in the cloud, allowing users to **monitor, analyze, and control** IoT devices in real-time without physical components.  
+It integrates:  
+- **AI-based anomaly detection** for predictive maintenance  
+- **Real-time MQTT communication** between sensors & cloud  
+- **3D Digital Twin (Three.js)** for visual representation  
+- **Cloud storage & analytics (Firebase)**  
+
+🔗 **Live Demo:** [Demo Link (if available)]  
