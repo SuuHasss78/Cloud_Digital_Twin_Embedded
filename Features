@@ -1,0 +1,7 @@
+## ⚙️ Features  
+✅ **Real-time sensor simulation** (Temperature, Humidity, Motion)  
+✅ **AI-based anomaly detection** (Predicts system faults)  
+✅ **3D Digital Twin with Three.js** (Visualizes device state)  
+✅ **Cloud integration (MQTT & Firebase)**  
+✅ **Web-based Dashboard (React.js)**  
+✅ **Open-source & customizable**  
